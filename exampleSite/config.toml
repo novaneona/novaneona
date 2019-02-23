@@ -1,4 +1,4 @@
-baseURL = "https://distracted-kepler-9af65b.netlify.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Some Title"
 theme = "minimal-bootstrap-hugo-theme"
@@ -47,3 +47,11 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "RSS"
   url = "/index.xml"
   weight = 4
+  [[menu.nav]]
+  name = "membaca"
+  url = "/index.xml"
+  weight = 5
+  [[menu.nav]]
+  name = "nawala"
+  url = "/index.xml"
+  weight = 6
