@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://distracted-kepler-9af65b.netlify.com"
 languageCode = "en-us"
 title = "Some Title"
 theme = "minimal-bootstrap-hugo-theme"
