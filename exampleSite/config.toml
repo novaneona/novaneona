@@ -32,7 +32,7 @@ theme = "minimal-bootstrap-hugo-theme"
 
 [menu]
   [[menu.nav]]
-  name = "Posts"
+  name = "Beranda"
   url = "/"
   weight = 1
   [[menu.nav]]
