@@ -36,22 +36,22 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/"
   weight = 1
   [[menu.nav]]
-  name = "Tags"
+  name = "Tentang"
   url = "/tags/"
   weight = 2
   [[menu.nav]]
-  name = "About"
+  name = "Sekarang"
   url = "/about/"
   weight = 3
   [[menu.nav]]
-  name = "RSS"
+  name = "Kontak"
   url = "/index.xml"
   weight = 4
-  [[menu.nav]]
-  name = "membaca"
-  url = "/index.xml"
-  weight = 5
-  [[menu.nav]]
-  name = "nawala"
-  url = "/index.xml"
-  weight = 6
+
+
+
+
+
+
+
+
